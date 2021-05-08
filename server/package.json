@@ -46,7 +46,7 @@
     "reflect-metadata": "^0.1.13",
     "tsyringe": "^4.1.0",
     "typemoq": "^2.1.0",
-    "typeorm": "^0.2.22",
+    "typeorm": "^0.2.25",
     "typescript": "^3.7.5"
   },
   "devDependencies": {
